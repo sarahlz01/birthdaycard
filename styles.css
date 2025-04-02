@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(228, 187, 121);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    margin-top: 50px;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+
+.message {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+}
+
+.axolotl {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
